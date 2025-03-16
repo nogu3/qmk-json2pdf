@@ -1,0 +1,250 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 440">
+  <!-- Keyboard outline -->
+  <rect x="10" y="10" width="1055" height="420" rx="20" ry="20" fill="none" stroke="#888" stroke-width="2"/>
+  <!-- Left side keys -->
+  <!-- Top row -->
+  <g class="key">
+    <rect x="40" y="50" width="70" height="70" rx="5" ry="5" fill="none" stroke="#888" stroke-width="1.5"/>
+    <text x="75" y="85" font-family="Roboto, sans-serif" font-size="22" text-anchor="middle">{{main-1}}</text>
+    <text x="75" y="105" font-family="Roboto, sans-serif" font-size="12" text-anchor="middle" class="sub-key">{{sub-1}}</text>
+  </g>
+
+  <g class="key">
+    <rect x="120" y="40" width="70" height="70" rx="5" ry="5" fill="none" stroke="#888" stroke-width="1.5"/>
+    <text x="155" y="75" font-family="Roboto, sans-serif" font-size="22" text-anchor="middle">{{main-2}}</text>
+    <text x="155" y="95" font-family="Roboto, sans-serif" font-size="12" text-anchor="middle" class="sub-key">{{sub-2}}</text>
+  </g>
+
+  <g class="key">
+    <rect x="200" y="30" width="70" height="70" rx="5" ry="5" fill="none" stroke="#888" stroke-width="1.5"/>
+    <text x="235" y="65" font-family="Roboto, sans-serif" font-size="22" text-anchor="middle">{{main-3}}</text>
+    <text x="235" y="85" font-family="Roboto, sans-serif" font-size="12" text-anchor="middle" class="sub-key">{{sub-3}}</text>
+  </g>
+
+  <g class="key">
+    <rect x="280" y="40" width="70" height="70" rx="5" ry="5" fill="none" stroke="#888" stroke-width="1.5"/>
+    <text x="315" y="75" font-family="Roboto, sans-serif" font-size="22" text-anchor="middle">{{main-4}}</text>
+    <text x="315" y="95" font-family="Roboto, sans-serif" font-size="12" text-anchor="middle" class="sub-key">{{sub-4}}</text>
+  </g>
+
+  <g class="key">
+    <rect x="360" y="50" width="70" height="70" rx="5" ry="5" fill="none" stroke="#888" stroke-width="1.5"/>
+    <text x="395" y="85" font-family="Roboto, sans-serif" font-size="22" text-anchor="middle">{{main-5}}</text>
+    <text x="395" y="105" font-family="Roboto, sans-serif" font-size="12" text-anchor="middle" class="sub-key">{{sub-5}}</text>
+  </g>
+
+  <!-- Middle row -->
+  <g class="key">
+    <rect x="40" y="130" width="70" height="70" rx="5" ry="5" fill="none" stroke="#888" stroke-width="1.5"/>
+    <text x="75" y="165" font-family="Roboto, sans-serif" font-size="22" text-anchor="middle">{{main-11}}</text>
+    <text x="75" y="185" font-family="Roboto, sans-serif" font-size="12" text-anchor="middle" class="sub-key">{{sub-11}}</text>
+  </g>
+
+  <g class="key">
+    <rect x="120" y="120" width="70" height="70" rx="5" ry="5" fill="none" stroke="#888" stroke-width="1.5"/>
+    <text x="155" y="155" font-family="Roboto, sans-serif" font-size="22" text-anchor="middle">{{main-12}}</text>
+    <text x="155" y="175" font-family="Roboto, sans-serif" font-size="12" text-anchor="middle" class="sub-key">{{sub-12}}</text>
+  </g>
+
+  <g class="key">
+    <rect x="200" y="110" width="70" height="70" rx="5" ry="5" fill="none" stroke="#888" stroke-width="1.5"/>
+    <text x="235" y="145" font-family="Roboto, sans-serif" font-size="22" text-anchor="middle">{{main-13}}</text>
+    <text x="235" y="165" font-family="Roboto, sans-serif" font-size="12" text-anchor="middle" class="sub-key">{{sub-13}}</text>
+  </g>
+
+  <g class="key">
+    <rect x="280" y="120" width="70" height="70" rx="5" ry="5" fill="none" stroke="#888" stroke-width="1.5"/>
+    <text x="315" y="155" font-family="Roboto, sans-serif" font-size="22" text-anchor="middle">{{main-14}}</text>
+    <text x="315" y="175" font-family="Roboto, sans-serif" font-size="12" text-anchor="middle" class="sub-key">{{sub-14}}</text>
+  </g>
+
+  <g class="key">
+    <rect x="360" y="130" width="70" height="70" rx="5" ry="5" fill="none" stroke="#888" stroke-width="1.5"/>
+    <text x="395" y="165" font-family="Roboto, sans-serif" font-size="22" text-anchor="middle">{{main-15}}</text>
+    <text x="395" y="185" font-family="Roboto, sans-serif" font-size="12" text-anchor="middle" class="sub-key">{{sub-15}}</text>
+  </g>
+
+  <!-- Bottom row -->
+  <g class="key">
+    <rect x="40" y="210" width="70" height="70" rx="5" ry="5" fill="none" stroke="#888" stroke-width="1.5"/>
+    <text x="75" y="245" font-family="Roboto, sans-serif" font-size="22" text-anchor="middle">{{main-21}}</text>
+    <text x="75" y="265" font-family="Roboto, sans-serif" font-size="12" text-anchor="middle" class="sub-key">{{sub-21}}</text>
+  </g>
+
+  <g class="key">
+    <rect x="120" y="200" width="70" height="70" rx="5" ry="5" fill="none" stroke="#888" stroke-width="1.5"/>
+    <text x="155" y="235" font-family="Roboto, sans-serif" font-size="22" text-anchor="middle">{{main-22}}</text>
+    <text x="155" y="255" font-family="Roboto, sans-serif" font-size="12" text-anchor="middle" class="sub-key">{{sub-22}}</text>
+  </g>
+
+  <g class="key">
+    <rect x="200" y="190" width="70" height="70" rx="5" ry="5" fill="none" stroke="#888" stroke-width="1.5"/>
+    <text x="235" y="225" font-family="Roboto, sans-serif" font-size="22" text-anchor="middle">{{main-23}}</text>
+    <text x="235" y="245" font-family="Roboto, sans-serif" font-size="12" text-anchor="middle" class="sub-key">{{sub-23}}</text>
+  </g>
+
+  <g class="key">
+    <rect x="280" y="200" width="70" height="70" rx="5" ry="5" fill="none" stroke="#888" stroke-width="1.5"/>
+    <text x="315" y="235" font-family="Roboto, sans-serif" font-size="22" text-anchor="middle">{{main-24}}</text>
+    <text x="315" y="255" font-family="Roboto, sans-serif" font-size="12" text-anchor="middle" class="sub-key">{{sub-24}}</text>
+  </g>
+
+  <g class="key">
+    <rect x="360" y="210" width="70" height="70" rx="5" ry="5" fill="none" stroke="#888" stroke-width="1.5"/>
+    <text x="395" y="245" font-family="Roboto, sans-serif" font-size="22" text-anchor="middle">{{main-25}}</text>
+    <text x="395" y="265" font-family="Roboto, sans-serif" font-size="12" text-anchor="middle" class="sub-key">{{sub-25}}</text>
+  </g>
+
+  <!-- Bottom most row -->
+  <g class="key">
+    <rect x="40" y="290" width="70" height="70" rx="5" ry="5" fill="none" stroke="#888" stroke-width="1.5"/>
+    <text x="75" y="325" font-family="Roboto, sans-serif" font-size="22" text-anchor="middle">{{main-31}}</text>
+    <text x="75" y="345" font-family="Roboto, sans-serif" font-size="12" text-anchor="middle" class="sub-key">{{sub-31}}</text>
+  </g>
+
+  <g class="key">
+    <rect x="120" y="280" width="70" height="70" rx="5" ry="5" fill="none" stroke="#888" stroke-width="1.5"/>
+    <text x="155" y="315" font-family="Roboto, sans-serif" font-size="22" text-anchor="middle">{{main-32}}</text>
+    <text x="155" y="335" font-family="Roboto, sans-serif" font-size="12" text-anchor="middle" class="sub-key">{{sub-32}}</text>
+  </g>
+
+  <g class="key">
+    <rect x="200" y="270" width="70" height="70" rx="5" ry="5" fill="none" stroke="#888" stroke-width="1.5"/>
+    <text x="235" y="305" font-family="Roboto, sans-serif" font-size="22" text-anchor="middle">{{main-33}}</text>
+    <text x="235" y="325" font-family="Roboto, sans-serif" font-size="12" text-anchor="middle" class="sub-key">{{sub-33}}</text>
+  </g>
+
+  <g class="key">
+    <rect x="280" y="290" width="70" height="70" rx="5" ry="5" fill="none" stroke="#888" stroke-width="1.5"/>
+    <text x="315" y="325" font-family="Roboto, sans-serif" font-size="22" text-anchor="middle">{{main-34}}</text>
+    <text x="315" y="345" font-family="Roboto, sans-serif" font-size="12" text-anchor="middle" class="sub-key">{{sub-34}}</text>
+  </g>
+
+  <!-- Thumb keys left -->
+  <g class="key">
+    <rect x="363" y="305" width="70" height="70" rx="5" ry="5" fill="none" stroke="#888" stroke-width="1.5" transform="rotate(20, 398, 340)"/>
+    <text x="398" y="345" font-family="Roboto, sans-serif" font-size="22" text-anchor="middle" transform="rotate(20, 398, 345)">{{main-35}}</text>
+    <text x="398" y="365" font-family="Roboto, sans-serif" font-size="12" text-anchor="middle" transform="rotate(20, 398, 365)" class="sub-key">{{sub-35}}</text>
+  </g>
+
+  <g class="key">
+    <rect x="440" y="340" width="70" height="70" rx="5" ry="5" fill="none" stroke="#888" stroke-width="1.5" transform="rotate(30, 475, 375)"/>
+    <text x="478" y="370" font-family="Roboto, sans-serif" font-size="22" text-anchor="middle" transform="rotate(30, 475, 370)">{{main-36}}</text>
+    <text x="467" y="390" font-family="Roboto, sans-serif" font-size="12" text-anchor="middle" transform="rotate(30, 475, 390)" class="sub-key">{{sub-36}}</text>
+  </g>
+
+  <!-- Right side keys -->
+  <!-- Top row -->
+  <g class="key">
+    <rect x="640" y="50" width="70" height="70" rx="5" ry="5" fill="none" stroke="#888" stroke-width="1.5"/>
+    <text x="675" y="85" font-family="Roboto, sans-serif" font-size="22" text-anchor="middle">{{main-6}}</text>
+    <text x="675" y="105" font-family="Roboto, sans-serif" font-size="12" text-anchor="middle" class="sub-key">{{sub-6}}</text>
+  </g>
+
+  <g class="key">
+    <rect x="720" y="40" width="70" height="70" rx="5" ry="5" fill="none" stroke="#888" stroke-width="1.5"/>
+    <text x="755" y="75" font-family="Roboto, sans-serif" font-size="22" text-anchor="middle">{{main-7}}</text>
+    <text x="755" y="95" font-family="Roboto, sans-serif" font-size="12" text-anchor="middle" class="sub-key">{{sub-7}}</text>
+  </g>
+
+  <g class="key">
+    <rect x="800" y="30" width="70" height="70" rx="5" ry="5" fill="none" stroke="#888" stroke-width="1.5"/>
+    <text x="835" y="65" font-family="Roboto, sans-serif" font-size="22" text-anchor="middle">{{main-8}}</text>
+    <text x="835" y="85" font-family="Roboto, sans-serif" font-size="12" text-anchor="middle" class="sub-key">{{sub-8}}</text>
+  </g>
+
+  <g class="key">
+    <rect x="880" y="40" width="70" height="70" rx="5" ry="5" fill="none" stroke="#888" stroke-width="1.5"/>
+    <text x="915" y="75" font-family="Roboto, sans-serif" font-size="22" text-anchor="middle">{{main-9}}</text>
+    <text x="915" y="95" font-family="Roboto, sans-serif" font-size="12" text-anchor="middle" class="sub-key">{{sub-9}}</text>
+  </g>
+
+  <g class="key">
+    <rect x="960" y="50" width="70" height="70" rx="5" ry="5" fill="none" stroke="#888" stroke-width="1.5"/>
+    <text x="995" y="85" font-family="Roboto, sans-serif" font-size="22" text-anchor="middle">{{main-10}}</text>
+    <text x="995" y="105" font-family="Roboto, sans-serif" font-size="12" text-anchor="middle" class="sub-key">{{sub-10}}</text>
+  </g>
+
+  <!-- Middle row -->
+  <g class="key">
+    <rect x="640" y="130" width="70" height="70" rx="5" ry="5" fill="none" stroke="#888" stroke-width="1.5"/>
+    <text x="675" y="165" font-family="Roboto, sans-serif" font-size="22" text-anchor="middle">{{main-16}}</text>
+    <text x="675" y="185" font-family="Roboto, sans-serif" font-size="12" text-anchor="middle" class="sub-key">{{sub-16}}</text>
+  </g>
+
+  <g class="key">
+    <rect x="720" y="120" width="70" height="70" rx="5" ry="5" fill="none" stroke="#888" stroke-width="1.5"/>
+    <text x="755" y="155" font-family="Roboto, sans-serif" font-size="22" text-anchor="middle">{{main-17}}</text>
+    <text x="755" y="175" font-family="Roboto, sans-serif" font-size="12" text-anchor="middle" class="sub-key">{{sub-17}}</text>
+  </g>
+
+  <g class="key">
+    <rect x="800" y="110" width="70" height="70" rx="5" ry="5" fill="none" stroke="#888" stroke-width="1.5"/>
+    <text x="835" y="145" font-family="Roboto, sans-serif" font-size="22" text-anchor="middle">{{main-18}}</text>
+    <text x="835" y="165" font-family="Roboto, sans-serif" font-size="12" text-anchor="middle" class="sub-key">{{sub-18}}</text>
+  </g>
+
+  <g class="key">
+    <rect x="880" y="120" width="70" height="70" rx="5" ry="5" fill="none" stroke="#888" stroke-width="1.5"/>
+    <text x="915" y="155" font-family="Roboto, sans-serif" font-size="22" text-anchor="middle">{{main-19}}</text>
+    <text x="915" y="175" font-family="Roboto, sans-serif" font-size="12" text-anchor="middle" class="sub-key">{{sub-19}}</text>
+  </g>
+
+  <g class="key">
+    <rect x="960" y="130" width="70" height="70" rx="5" ry="5" fill="none" stroke="#888" stroke-width="1.5"/>
+    <text x="995" y="165" font-family="Roboto, sans-serif" font-size="22" text-anchor="middle">{{main-20}}</text>
+    <text x="995" y="185" font-family="Roboto, sans-serif" font-size="12" text-anchor="middle" class="sub-key">{{sub-20}}</text>
+  </g>
+
+  <!-- Bottom row -->
+  <g class="key">
+    <rect x="640" y="210" width="70" height="70" rx="5" ry="5" fill="none" stroke="#888" stroke-width="1.5"/>
+    <text x="675" y="245" font-family="Roboto, sans-serif" font-size="22" text-anchor="middle">{{main-26}}</text>
+    <text x="675" y="265" font-family="Roboto, sans-serif" font-size="12" text-anchor="middle" class="sub-key">{{sub-26}}</text>
+  </g>
+
+  <g class="key">
+    <rect x="720" y="200" width="70" height="70" rx="5" ry="5" fill="none" stroke="#888" stroke-width="1.5"/>
+    <text x="755" y="235" font-family="Roboto, sans-serif" font-size="22" text-anchor="middle">{{main-27}}</text>
+    <text x="755" y="255" font-family="Roboto, sans-serif" font-size="12" text-anchor="middle" class="sub-key">{{sub-27}}</text>
+  </g>
+
+  <g class="key">
+    <rect x="800" y="190" width="70" height="70" rx="5" ry="5" fill="none" stroke="#888" stroke-width="1.5"/>
+    <text x="835" y="225" font-family="Roboto, sans-serif" font-size="22" text-anchor="middle">{{main-28}}</text>
+    <text x="835" y="245" font-family="Roboto, sans-serif" font-size="12" text-anchor="middle" class="sub-key">{{sub-28}}</text>
+  </g>
+
+  <g class="key">
+    <rect x="880" y="200" width="70" height="70" rx="5" ry="5" fill="none" stroke="#888" stroke-width="1.5"/>
+    <text x="915" y="235" font-family="Roboto, sans-serif" font-size="22" text-anchor="middle">{{main-29}}</text>
+    <text x="915" y="255" font-family="Roboto, sans-serif" font-size="12" text-anchor="middle" class="sub-key">{{sub-29}}</text>
+  </g>
+
+  <g class="key">
+    <rect x="960" y="210" width="70" height="70" rx="5" ry="5" fill="none" stroke="#888" stroke-width="1.5"/>
+    <text x="995" y="245" font-family="Roboto, sans-serif" font-size="22" text-anchor="middle">{{main-30}}</text>
+    <text x="995" y="265" font-family="Roboto, sans-serif" font-size="12" text-anchor="middle" class="sub-key">{{sub-30}}</text>
+  </g>
+
+  <!-- Bottom most row right -->
+  <g class="key">
+    <rect x="960" y="290" width="70" height="70" rx="5" ry="5" fill="none" stroke="#888" stroke-width="1.5"/>
+    <text x="995" y="325" font-family="Roboto, sans-serif" font-size="22" text-anchor="middle">{{main-42}}</text>
+    <text x="995" y="345" font-family="Roboto, sans-serif" font-size="12" text-anchor="middle" class="sub-key">{{sub-42}}</text>
+  </g>
+
+  <!-- Thumb keys right -->
+  <!-- Thumb keys right -->
+  <g class="key">
+    <rect x="550" y="335" width="70" height="70" rx="5" ry="5" fill="none" stroke="#888" stroke-width="1.5" transform="rotate(-20, 585, 370)"/>
+    <text x="585" y="375" font-family="Roboto, sans-serif" font-size="22" text-anchor="middle" transform="rotate(-20, 585, 375)">{{main-37}}</text>
+    <text x="585" y="395" font-family="Roboto, sans-serif" font-size="12" text-anchor="middle" transform="rotate(-20, 585, 395)" class="sub-key">{{sub-37}}</text>
+  </g>
+
+  <g class="key">
+    <rect x="630" y="315" width="70" height="70" rx="5" ry="5" fill="none" stroke="#888" stroke-width="1.5" transform="rotate(-10, 665, 350)"/>
+    <text x="665" y="355" font-family="Roboto, sans-serif" font-size="22" text-anchor="middle" transform="rotate(-10, 665, 355)">{{main-38}}</text>
+    <text x="665" y="375" font-family="Roboto, sans-serif" font-size="12" text-anchor="middle" transform="rotate(-10, 665, 375)" class="sub-key">{{sub-38}}</text>
+  </g>
+</svg>
