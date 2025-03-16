@@ -1,0 +1,38 @@
+version: '3'
+
+tasks:
+  up:
+    desc: Dockerコンテナを起動する
+    cmds:
+      - docker compose up -d
+
+  down:
+    desc: Dockerコンテナを停止する
+    cmds:
+      - docker compose down
+
+  restart:
+    desc: Dockerコンテナを再起動する
+    cmds:
+      - docker compose restart
+
+  logs:
+    desc: Dockerコンテナのログを表示する
+    cmds:
+      - docker compose logs -f
+
+  exec:
+    desc: コンテナ内でコマンドを実行する
+    cmds:
+      - docker compose exec qmk-json2pdf {{.CLI_ARGS}}
+
+  bash:
+    desc: コンテナ内のbashシェルに接続する
+    cmds:
+      - docker compose exec qmk-json2pdf bash
+
+  build:
+    desc: PDFを生成する
+    cmds:
+      - docker compose exec qmk-json2pdf ruby main.rb {{.CLI_ARGS}}
+
